@@ -1,4 +1,4 @@
-## 崩坏学院2
+﻿## 崩坏学院2
 
 16年开始入坑玩的，现在累了想弃坑，目前是一边养号一边出号。
 
@@ -10,23 +10,27 @@
 
 粉光摆钟，换了吉他（-8000共鸣.jpg）
 
+2020年12月13日
+
+号以出售
+
 ### 卡片
 
-![kapian](images/卡片.jpg)
+![kapian](images/bb卡片.jpg)
 
 ### 装备
 
-![zhuangbei](images/装备.jpg)
+![zhuangbei](images/bb装备.jpg)
 
 ### 使魔
 
-![shimo](images/使魔.jpg)
+![shimo](images/bb使魔.jpg)
 
 ### 皮肤
 
-![pifu](images/皮肤.jpg)
+![pifu](images/bb皮肤.jpg)
 
 
 ### 角色
 
-![juese](images/角色.jpg)
+![juese](images/bb角色.jpg)
