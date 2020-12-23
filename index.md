@@ -73,7 +73,7 @@
 
 ### 卡片
 
-![kapian](images/pcr卡片.jpg)
+![kapian](images/pcr卡片.png)
 
 ### 图鉴
 
